@@ -1,0 +1,19 @@
+html{
+    font-size: 76.5%;
+    font-family: "Helvetica Neue";
+    box-sizing: border-box;
+}
+
+
+
+.todoitemList {
+    box-sizing: border-box;
+    white-space: nowrap;
+    /* display: flexbox; */
+    justify-content: center;
+    margin: 1rem;
+    list-style: none;
+    overflow-x: auto;
+    overflow-y: hidden;
+    
+}
